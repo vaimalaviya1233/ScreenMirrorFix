@@ -3,14 +3,16 @@ for mirroring to Samsung tv somehow zooms in. To run Python is required
 
 This for those of who experienced zoom issue while mirroring windows 10 screen to Samsung TV it is basically it automates resolution change  and then change back to original recommended resolution however due to windows 10 and because simply microsoft don't want you to do it automatically you will have to manually press down arrow when resolution change menu is popped up and second time also to change to original recommended and don't hit down arrow while it's opening System settings.
 
-## To Get Started
+when pressing down arrow you will have 3 seconds otherwise things will go to different direction which i afraid i do not know most likely in that case move your mouse to one of four corners of your screen
+
+### To Get Started
 [Download](https://github.com/vaimalaviya1233/ScreenMirrorFix/archive/main.zip)  and Open .zip file and extract all and run Test_MultiRes.py
 
-## Force Stop
+### Force Stop
 To force stop please move arrow to any top or bottom right or left cornors
 
-## To Run Again
+### To Run Again
 it will prompt you after it finishes running if it was sucessful to making zoom issue gone if in case it haven't gone please press retry to run again 
 
-## issues
+### issues
 It will run without any issue if you encounter issue please report it

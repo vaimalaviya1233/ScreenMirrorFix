@@ -7,7 +7,7 @@ This for those of who experienced zoom issue while mirroring windows 10 screen t
 To force stop please move arrow to any top or bottom right or left cornors
 
 # To Run Again
-it will ask you if it was sucessful to making zoom issue gone if in case it haven't gone please press retry to run again 
+it will prompt you after it finishes running if it was sucessful to making zoom issue gone if in case it haven't gone please press retry to run again 
 
 #issues
 It will run without any issue if you encounter issue please report it

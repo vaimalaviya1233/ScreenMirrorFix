@@ -7,9 +7,11 @@ When pressing down arrow you will have 3 seconds otherwise things will go to a d
 ## Requirements
 <ul>
   <li> have to be installed the <a href='https://www.python.org/downloads/'>latest python from here</a></li>
-  <li> pip install pyautogui</li>
+  <li> from cmd(command line prompt)
+  
+    pip install pyautogui  
+   </li>
 
-    pip install pyautogui
  </li>
 </ul>
 

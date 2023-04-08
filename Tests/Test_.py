@@ -74,11 +74,10 @@ def main():
         pyautogui.alert(text='Thanks',Title='See You Later', button='OK')
 def failsure():
     a = True
-    while (a==True):
+    while a:
         loc = pyautogui.position()
-        if ((loc[0] == 0) or (loc[0] == 1365)):
-            if((loc[1] == 0) or (loc[1] == 767)):
-                exit()
+        if loc[0] in [0, 1365] and loc[1] in [0, 767]:
+            exit()
 
 failsafe =  threading.Thread(target=failsure)
 chief = threading.Thread(target=main)
